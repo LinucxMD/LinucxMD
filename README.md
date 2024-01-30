@@ -4,4 +4,4 @@
 </p>
 
 ### Stats
-![](https://raw.githubusercontent.com/LinucxMD/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<img src="https://github.com/LinucxMD/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
